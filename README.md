@@ -27,8 +27,8 @@ I'm an MCA graduate interested in building responsive web applications and pract
 **3. Multiple Disease Prediction (MDP)**
 - Academic project involving a Django-based hospital website with patient management, appointment scheduling and machine-learning-based disease prediction.
 - **Technologies:** Python, Django, SQLite3, HTML, CSS, Bootstrap 4, jQuery, scikit-learn.
-- **Project Report:** [View Report](ADD_PDF_LINK)
-- **GitHub Repository:** [View Repository](ADD_REPOSITORY_LINK)
+- **Project Report:** [View Report](https://github.com/ruchira-ponnamma/MDP-Project-Report/blob/main/MDP-Project-Report.pdf)
+- **GitHub Repository:** [View Repository](https://github.com/ruchira-ponnamma/MDP-Project-Report)
 
 **4. Fresh Crumbs Bakehouse**
 - Responsive multi-page bakery website featuring product categories, an automatic slideshow, order form validation, and customer feedback.
