@@ -25,7 +25,10 @@ I'm an MCA graduate interested in building responsive web applications and pract
 - [GitHub Repository](https://github.com/ruchira-ponnamma/CFIV)
 
 **3. Multiple Disease Prediction (MDP)**
-- Academic project involving disease prediction and web application development using Python and Django.
+- Academic project involving a Django-based hospital website with patient management, appointment scheduling and machine-learning-based disease prediction.
+- **Technologies:** Python, Django, SQLite3, HTML, CSS, Bootstrap 4, jQuery, scikit-learn.
+- **Project Report:** [View Report](ADD_PDF_LINK)
+- **GitHub Repository:** [View Repository](ADD_REPOSITORY_LINK)
 
 **4. Fresh Crumbs Bakehouse**
 - Responsive multi-page bakery website featuring product categories, an automatic slideshow, order form validation, and customer feedback.
