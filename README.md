@@ -20,7 +20,7 @@ I'm an MCA graduate interested in building responsive web applications and pract
 
 **2. Cloud File Integrity Verification (CFIV)**
 - A Flask-based application that verifies file integrity and authenticity using SHA-256, SHA3-256 hashing and RSA digital signatures, with Cloudinary integration for cloud storage.
-- **GitHub Repository:** https://github.com/ruchira-ponnamma/CFIV
+- [GitHub Repository](https://github.com/ruchira-ponnamma/CFIV)
 
 **3. Multiple Disease Prediction (MDP)**
 - Academic project involving disease prediction and web application development using Python and Django.
