@@ -16,10 +16,12 @@ I'm an MCA graduate interested in building responsive web applications and pract
 
 **1. AssistEarn – Decentralized Reward System**
 - A decentralized reward system designed for workforce support.
+- Technologies: Node.js, Express.js, Firebase, Solidity, Ethers.js, MetaMask, Ethereum, Polygon.
 - [GitHub Repository](https://github.com/ruchira-ponnamma/assistearn)
 
 **2. Cloud File Integrity Verification (CFIV)**
 - A Flask-based application that verifies file integrity and authenticity using SHA-256, SHA3-256 hashing and RSA digital signatures, with Cloudinary integration for cloud storage.
+- Technologies: Python, Flask, SQLite, Cloudinary, HTML, CSS, JavaScript.
 - [GitHub Repository](https://github.com/ruchira-ponnamma/CFIV)
 
 **3. Multiple Disease Prediction (MDP)**
